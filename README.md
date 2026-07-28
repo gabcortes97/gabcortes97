@@ -33,6 +33,9 @@ Asistente de Gestión, Dirección de Investigación y Publicaciones — Facultad
 
 ### Herramientas
 
-Análisis cuantitativo: R (RStudio, dplyr, ggplot2), Stata, SPSS
-Desarrollo y visualización: Shiny, Quarto, GitHub
+![R](https://img.shields.io/badge/R-3a3a3a?style=flat-square&logo=r&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-3a3a3a?style=flat-square&logo=rstudio&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-3a3a3a?style=flat-square&logo=quarto&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-3a3a3a?style=flat-square&logo=github&logoColor=white)
+
 
